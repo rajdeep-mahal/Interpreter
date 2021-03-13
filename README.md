@@ -78,3 +78,6 @@
 
 ## Project Conclusion/Results
 #### Overall, this project give me an excellent knowledge of slack, encapsulation, inheritance, etc. The project itself performs very well but, it take lots of time to code the four major classes that we need to implement. My interpreter successfully compiles and prints out the Byte Codes. This program displays how each byte code operate in the X program. I wish more tools and hints were provided to implement and debug the project. After debugging, I was successfully able to interpret the bytecode files (factorial.x.cod and fib.x.cod. I feel better and confident after finishing the entire project, and I have a better understanding of the OOP principles. My main focus was not to break the encapsulation within the code. I am proud that, I complete this project with all requirements given in the assignment pdf. In the last, this project was very helpful because I learned about programming in both abstract idea and technically.
+## Credits/References
+#### 1. Instructor: Anthony J Souza
+#### 2. Slack Channel: SFSU Computer Science
